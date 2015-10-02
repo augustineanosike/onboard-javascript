@@ -1,4 +1,4 @@
-# Onboarding project for JavaScript  
+#Onboarding project for JavaScript  
 
 This is a JavaScript project for all new developers to complete before venturing into our web frontend codebase.  
 
